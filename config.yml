@@ -1,0 +1,10 @@
+webhook: webhook
+use_message_queue: false
+message_queue: amqp://guest:guest@localhost:5672//
+hub_verify_token: "1234"
+bots:
+    - page_id: 278882135817701
+      title: TechieDoc
+      class: techiedoc:TechieDoc
+      access_token: EAAPk3w7KzuIBAMUDhVeuCj26miT2V0uof5Jg90ym63PoOJjcQ3sVwWxgbydZBb1HzSl7mSN7hrgsC9VnPMFmsM7tVlivZCBVSU4T3OZBbJZAfZC8ZCi9e3QzZC3NjkPrziRP7ZCH36CwI1ZABoHzrGzEYctXMnvKYz3YK62MrZCqOyqgZDZD
+
